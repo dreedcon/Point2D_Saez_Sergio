@@ -1,0 +1,4 @@
+﻿------ Discover test started ------
+========== Discover test finished: 9 found (0:00:00,1661172) ==========
+------ Run test started ------
+========== Run test finished: 9 run (0:00:00,8616112) ==========
